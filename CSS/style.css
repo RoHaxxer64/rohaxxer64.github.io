@@ -1,8 +1,8 @@
 ﻿#header{
 width:auto;
-padding:1% 1% 1% 2%;
+padding:1%, 1%, 1%, 2%;
 background-color: black;
-box-shadow: 1px 3px 8px 1px lightgrey;
+box-shadow: 1px, 3px, 8px, 1px, lightgrey;
 }
 #header #title {
 font-family:"Open Sans", "Segoe UI";
