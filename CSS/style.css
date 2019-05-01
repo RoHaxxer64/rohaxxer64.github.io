@@ -1,8 +1,4 @@
-﻿html,body{
-margin:0;
-padding:0;
-}
-#header{
+﻿#header{
 width:auto;
 padding:1% 1% 1% 2%;
 background-color: black;
@@ -20,4 +16,12 @@ color:white;
 font-family:"Century Gothic";
 text-decoration:none;
 font-size:100%;
+}
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
 }
