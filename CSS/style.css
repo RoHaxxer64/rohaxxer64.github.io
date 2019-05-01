@@ -1,4 +1,8 @@
-﻿#header{
+﻿html,body {
+margin:0;
+padding:0;
+}
+#header{
 width:auto;
 padding:1%, 1%, 1%, 2%;
 background-color: black;
